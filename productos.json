@@ -2,22 +2,22 @@
   "productCount": 50,
   "products" : [
     {
-      name: "tomates",
-      precio: 3.
-      cantidad: 100
-      peso: 3
+      "name": "tomates",
+      "precio": 3,
+      "cantidad": 100,
+      "peso": 3,
     },
     {
-      name: "peras",
-      precio: 3.
-      cantidad: 100
-      peso: 3       
+"name": "peras",
+      "precio": 3,
+      "cantidad": 100,
+      "peso": 3,  
     },
     {
-      name: "limones",
-      precio: 3.
-      cantidad: 100
-      peso: 3       
+"name": "limones",
+      "precio": 3,
+      "cantidad": 100,
+      "peso": 3,  
     }
   ]
 }
